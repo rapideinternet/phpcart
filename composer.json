@@ -1,5 +1,5 @@
 {
-    "name": "anam/phpcart",
+    "name": "rapideinternet/phpcart",
     "description": "Simple framework agnostic shopping cart",
     "keywords": [
         "Cart",
@@ -8,7 +8,7 @@
         "Laravel shopping cart",
         "Laravel cart"
     ],
-    "homepage": "https://github.com/anam-hossain/phpcart",
+    "homepage": "https://github.com/rapideinternet/phpcart",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
             "email": "enam33@gmail.com"
         },
 	{
-		"name": "Lucas vand er Have",
+		"name": "Lucas van der Have",
 		"email": "lucas@rapide.nl"
 	}
     ],
